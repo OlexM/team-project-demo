@@ -44,6 +44,30 @@
    Эта страница будет автоматически перезагружаться после сохранения изменений в
    файлах проекта.
 
+https://www.w3schools.com/howto/howto_css_flip_card.asp
+
+https://animista.net/play/basic/flip-scale https://swiperjs.com/get-started
+
+https://kenwheeler.github.io/slick/
+https://www.youtube.com/watch?v=rXNfDfqtM3M&list=PLK8RtsinRZD6GzuDnBdwj3fYJ3W17tYz0&index=8&t=1820s
+
+https://michalsnik.github.io/aos/
+
+https://github.com/goitacademy/mobile-menu-workshop
+
+clickable: true, // что-бы сделать пагинацию кликабельной, после pagination
+
+https://codepen.io/dan_postnov/pen/gjBqPb
+
+lighthouse for semantic check
+
+width: 95%; max-width: 392px; height: 95%; max-height: 586px; overflow: scroll;
+scroll for modal mobile
+
+https://codepen.io/dan_postnov/pen/gjBqPb
+
+valeriiaoshchepkova Lomotkov-Vasiliy OlgaGresko eduard-kaluhin Ilydanyxx Gapeeva
+
 ## Файлы и папки
 
 - Файлы разметки компонентов страницы должни находиться в папке `src/partials` и
